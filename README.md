@@ -1,5 +1,5 @@
 ## Screenshot
-![App screenshot](assets/Image.png)
+![App screenshot](Image.png)
 
 # Portfolio Tracker + Monte Carlo (Streamlit)
 
