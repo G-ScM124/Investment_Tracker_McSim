@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+.conda/
+*.conda
+
+# Local caches / data
+data_cache/
+*.pkl
+*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
