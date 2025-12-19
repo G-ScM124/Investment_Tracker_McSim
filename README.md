@@ -1,3 +1,6 @@
+## Screenshot
+![App screenshot](assets/Image.png)
+
 # Portfolio Tracker + Monte Carlo (Streamlit)
 
 A personal **investment tracker** + **benchmark comparison** + **Monte Carlo / fan chart** forecasting app built with **Streamlit**.
